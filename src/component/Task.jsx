@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import DeleteIcon from "@mui/icons-material/Delete";
-import Button from "@mui/material/Button";
-import { IconButton, TextField } from "@mui/material";
+import { TextField } from "@mui/material";
 import AddIcon from "@mui/icons-material/Add";
 
 const Task = () => {
