@@ -1,0 +1,35 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.container{
+  margin-top: 100px;
+}
+
+.form-container{
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  background-color:#3e56386b;
+  border-radius: 10px;
+  width: 400px;
+  flex-direction: column;
+  
+}
+.form{
+  padding: 0px 0px 0px 100px;
+}
+
+li label{
+  padding-left: 100px;
+  padding-right: 20px;
+}
+
+.task-list{
+  align-items: start;
+}
+.task-list ul{
+  list-style: none;
+}
