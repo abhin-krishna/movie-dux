@@ -29,7 +29,7 @@ const Task = () => {
             variant="standard"
             onChange={(e) => setInput(e.currentTarget.value)}
           />
-          <label onClick={handleSubmit}>
+          <label className="icon-label" onClick={handleSubmit}>
             <AddIcon />
           </label>
         </div>
