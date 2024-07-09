@@ -21,6 +21,9 @@
 .form{
   padding: 0px 0px 0px 100px;
 }
+.icon-label svg{
+  padding-top: 15px;
+}
 
 li label{
   padding-left: 100px;
